@@ -5,7 +5,7 @@ I’m a passionate software engineer from **Malaysia** who loves building scalab
 
 ---
 
-### 💡 About Me
+## 💡 About Me
 
 - 🌏 **Nationality:** Malaysian
 - 🌐 **Pronouns:** He/Him
@@ -13,7 +13,7 @@ I’m a passionate software engineer from **Malaysia** who loves building scalab
 
 ---
 
-### 🔧 Tech Stack
+## 🔧 Tech Stack
 
 **Frontend Development:**  
 <br/>
@@ -58,6 +58,6 @@ I’m a passionate software engineer from **Malaysia** who loves building scalab
 
 ---
 
-### 📫 Let’s Connect!
+## 📫 Let’s Connect!
 
 - Feel free to reach out for collaborations or just to chat about tech and cybersecurity!

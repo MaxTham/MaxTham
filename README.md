@@ -93,6 +93,6 @@ I’m a passionate software engineer from **Malaysia** who loves building scalab
 
 <br clear="both">
 
-<img src="https://github.com/MaxTham/MaxTham/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ConquerorFY/ConquerorFY/output/snake.svg" alt="Snake animation" />
 
 ###

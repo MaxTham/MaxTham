@@ -16,7 +16,7 @@ I’m a passionate software engineer from **Malaysia** who loves building scalab
 ## 🔧 Tech Stack
 
 **Frontend Development:**  
-
+<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" title="HTML"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" title="CSS"  />
@@ -31,8 +31,8 @@ I’m a passionate software engineer from **Malaysia** who loves building scalab
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo" title="Vue"  />
 
-**Backend Development:**
-
+**Backend Development:**  
+<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" title="PHP"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" title="C#"  />
@@ -50,8 +50,8 @@ I’m a passionate software engineer from **Malaysia** who loves building scalab
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" title="Nextjs"  />
 <img width="12" />
 
-**Tools & Platforms:**
-
+**Tools & Platforms:**  
+<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" title="VS Code"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo" title="Visual Studio"  />
@@ -61,8 +61,8 @@ I’m a passionate software engineer from **Malaysia** who loves building scalab
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo" title="Android Studio"  />
 <img width="12" />
 
-**Data Management:**
-
+**Data Management:**  
+<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" title="Git"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" title="MySQL"  />

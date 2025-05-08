@@ -96,6 +96,9 @@ I’m a passionate software engineer from **Malaysia** who loves building scalab
   <a href="mailto:wing.fei5778@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="35" alt="outlook logo" />
   </a>
+<!--   <a href="https://www.linkedin.com/in/tham-wing-fei-max-0303bb226/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badg" height="35" alt="linkedin logo" />
+  </a> -->
 </div>
 
 ###

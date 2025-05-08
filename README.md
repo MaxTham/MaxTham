@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tham Wing Fei (Max)!
 
-**🌟 Full Stack Developer | Cyber Security Analyst (Blue/Red Team)**  
+**🌟 Full Stack Developer | Cyber Security Analyst (Blue/Red Team) | Forex & Cryptocurrency Developer**  
 I’m a passionate software engineer from **Malaysia** who loves building scalable, efficient, and secure applications. With a solid foundation in both **software development** and **cybersecurity**, I thrive on creating innovative solutions while ensuring robust protection against digital threats.
 
 ---

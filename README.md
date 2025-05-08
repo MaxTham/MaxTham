@@ -43,6 +43,10 @@ I’m a passionate software engineer from **Malaysia** who loves building scalab
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" title="Java"  />
 <img width="12" />
+<img src="https://stocksharp.com/file/142871/mt4_logo_svg/" height="30" alt="java logo" title="Java"  />
+<img width="12" />
+<img src="https://stocksharp.com/file/142872/mt5_logo_svg/" height="30" alt="java logo" title="Java"  />
+<img width="12" />
 <br/>
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo" title="NPM"  />
